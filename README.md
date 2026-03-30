@@ -3,7 +3,9 @@ A project for the enrolled digital literacy course.
 #  Digital Literacy Portfolio – Student Digital Ambassador
 
 Name:UTTARA CHATURVEDI 
-Reg. No.: 25MIM10159 
+
+Reg. No.: 25MIM10159    
+
 Branch:INTEGRATED MTECH AI ML| VIT Bhopal University  
 Course: CSE0001 – Digital Literacy  
 
@@ -17,7 +19,8 @@ As a proud Student Digital Ambassador, I created this portfolio to empower my ba
 - Task 5: Cybercrime Case Study & Prevention Guide  
 
 Google Form Quiz (for our batch): https://forms.gle/Jq6529eomcKdfQVg9
-Full Project Report: 
+
+Full Project Report:https://github.com/uttara25mim10159git/Digital-Literacy-project/blob/4b4adba99ae86b424a7e321d46abe7a0906b833f/Project%20Report/Report.pdf 
 
 ---
 
